@@ -1,4 +1,4 @@
-#Email 1
+# Email 1
 
 Subject: Hi,Iam new joinee of your team
 
@@ -18,8 +18,31 @@ Regard's
 
 Pakin Basker P
 7358360090
-#Email 2
-#Email 3
+
+# Email 2
+
+
+Hi,
+
+
+Today
+In the morning I going to start and complete email communication in life skill track task completion.
+Then going to learn OOPs concepts in Java and going to do some Java Koans
+And the evening I am going to start with Exception handling in Java and some Java koans regarding that.
+
+12-07-2023
+Yesterday I did some CLI command practice and I started with some loops concepts and arrays and some oops concepts.
+
+Doubts
+We have to learn deeply or we have to study till the implementation of Java concepts.
+
+Thanks & Regards
+
+Pakin Basker P
+7358360090
+
+
+# Email 3
 
 Subject: Regards sick leave | 13-07-2023
 
@@ -36,7 +59,7 @@ Thanks & Regard's
 Pakin Basker P
 7358360090
 
-#Email 4
+# Email 4
 
 Subject: Requesting credentials for Git and Staging Server
 
@@ -54,7 +77,7 @@ Regard's
 Pakin Basker P
 7358360090
 
-#Email 5
+# Email 5
 
 Subject: Request for vacation
 
@@ -71,7 +94,7 @@ Thanks & Regard
 Pakin Basker P
 7358360090
 
-#Email 6
+# Email 6
 
 Subject: Requesting Feedback Session
 
