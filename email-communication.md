@@ -1,6 +1,6 @@
 # Email 1
 
-Subject: Hi,Iam new joinee of your team
+Subject: Hi
 
 Hi all,
 
@@ -49,13 +49,13 @@ Subject: Regards sick leave | 13-07-2023
 Hi Santu,
 
 
-I will on leave today as I am not feeling well.
-I will available on phone in case of emergency.
-I hope I return on tomorrow.
+I will be on leave today as I am not feeling well.
+I will be available on the phone in case of an emergency.
+I hope I return tomorrow.
 Please consider my request and grant me a leave today.
 
 
-Thanks & Regard's
+Thanks & Regard
 Pakin Basker P
 7358360090
 
